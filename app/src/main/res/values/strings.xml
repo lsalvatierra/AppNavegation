@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AppNavegation</string>
+    <string name="valbtnPregunta1">Ir a Pregunta 1</string>
+    <string name="valbtnPregunta2">Ir a Pregunta 2</string>
+    <string name="valbtnPregunta3">Ir a Pregunta 3</string>
+    <string name="valTitulo">MENU DE OPCIONES</string>
+    <string name="valPregunta1">PREGUNTA 1</string>
+    <string name="valPregunta2">PREGUNTA 2</string>
+    <string name="valPregunta3">PREGUNTA 3</string>
+</resources>
